@@ -2,7 +2,7 @@
 
 i don't usually do AOC, and when i do, i don't usually post it to github
 
-this year tho, i have like 10 languages i wanna try for different stuff,
+this year tho, i have like ~10~ a bunch languages i wanna try for different stuff,
 and aoc makes a good playground. so, gonna do at least a few days of it,
 and a different language as often as i feel like. some that made the list:
 
